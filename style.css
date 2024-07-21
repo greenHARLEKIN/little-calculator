@@ -47,6 +47,8 @@ form .display input {
     flex: 1;
     font-size: 45px;
     box-shadow: none;
+    background-color: rgb(197, 255, 236);
+    color: black;
 }
 
 form input.equal {
